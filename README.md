@@ -1,4 +1,4 @@
-git clone https://github.com/codewithharit/Email-Scraper.git
-cd Email-Scraper
-chmod +x *
-bash emailscraper.sh
+1. git clone https://github.com/codewithharit/Email-Scraper.git
+2. cd Email-Scraper
+3 chmod +x *
+4. bash emailscraper.sh
