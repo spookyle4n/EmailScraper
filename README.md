@@ -2,7 +2,7 @@
 An email scraper tool has an email finder browser extension that extracts email addresses from a website or social media platform.
 
 
-![emailscraper](https://user-images.githubusercontent.com/88737074/189989179-75ca0c33-c9ec-44a4-9a77-bc65cb9e0caa.png)
+<img width="843" alt="Screen Shot 2023-09-25 at 2 55 26 PM" src="https://github.com/spookyle4n/EmailScraper/assets/103913003/2c53841b-272f-47e4-8b18-e477e47dda94">
 
 
 ## Requirements
