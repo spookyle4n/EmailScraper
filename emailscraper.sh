@@ -1,6 +1,6 @@
 !/bin/bash
-# Coded by: codewithharit (Don't change, noob!)
-# https://github.com/codewithharit
+# Coded by: spookyle4n
+# https://github.com/spookyle4n/EmailScraper
 
 
 
@@ -8,11 +8,7 @@
 
 
 
-blue="\e[34m"
-default="\e[0m"
-green="\033[92m"
-red="\e[1;31m"
-yellow="\e[0;33m"
+
 
 clear
 
@@ -36,7 +32,7 @@ clear
 
 
 
-echo -e "  $red                                                               
+"\033[0;31m                                                              
                                                                                                     
                                                                                                    
                                                                                                     
@@ -76,20 +72,20 @@ echo -e "  $red
                              P@@@@@@@?                        7@@&@@@@G                             
                              .75B#&#J.                        .?PGPP57                              
                                                  "
-   echo -e " $green                              
+   "                              
                                ┌───────────────────────────────────┐
                                │▛▀▘       ▗▜  ▞▀▖                  │
                                │▙▄ ▛▚▀▖▝▀▖▄▐  ▚▄ ▞▀▖▙▀▖▝▀▖▛▀▖▞▀▖▙▀▖│
                                │▌  ▌▐ ▌▞▀▌▐▐  ▖ ▌▌ ▖▌  ▞▀▌▙▄▘▛▀ ▌  │
                                │▀▀▘▘▝ ▘▝▀▘▀▘▘ ▝▀ ▝▀ ▘  ▝▀▘▌  ▝▀▘▘  │
                                └───────────────────────────────────┘ "
-  echo -e " $red                                
+ "                                \033[0;32m
                                          
-                                                         | Wyatt Gierer |v1.0 "
-                         
-echo -e " $yellow       [ Email Scraper Tool Coded by Wyatt Gierer ] "
-echo -e " $default       [ GitHub : https://github.com/spookyle4n  ] "
-echo -e " $green    "           
+                                               | Wyatt Gierer | v1.0 "
+                         \033[0;34m
+"       [ Email Scraper Tool Coded by Wyatt Gierer ] "
+       [ GitHub : https://github.com/spookyle4n  ] "
+    "           
                                                                                                    
 python3 code.py
                                                                                                   
