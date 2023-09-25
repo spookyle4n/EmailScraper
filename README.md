@@ -12,8 +12,8 @@ This tool require python3
 ## Installation
 
 ```
-git clone https://github.com/codewithharit/Email-Scraper.git
-cd Email-Scraper
+git clone https://github.com/spookyle4n/EmailScraper
+cd EmailScraper
 chmod +x *
 bash emailscraper.sh
 
